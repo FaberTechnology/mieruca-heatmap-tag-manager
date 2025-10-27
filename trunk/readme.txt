@@ -1,7 +1,7 @@
 === ミエルカヒートマップ タグマネージャー ===
 Contributors: kanekosfaber
 Donate link: https://mieru-ca.com/heatmap/
-Tags: analytics, analyze, click, read, scroll, heatmap, Japanese, fabercompany, mieruca, mieruca heatmap, 
+Tags: analytics, analyze, click, read, scroll, heatmap, Japanese, fabercompany, mieruca, mieruca heatmap,
 Requires at least: 5.0
 Tested up to: 5.8
 Stable tag: 1.0.0
@@ -9,7 +9,7 @@ Requires PHP: 7.3
 License: Copyright 2021 Faber Company
 
 無料で使えるヒートマップツール、ミエルカヒートマップのタグ設置が簡単にできるプラグインです。
-This is the plugin to introduce the tag of the free heatmap service "Mieruca Heatmap" easy.
+This is the plugin to introduce the tag of the free heatmap service "Mieruca Heatmap" easily.
 
 == Description ==
 
