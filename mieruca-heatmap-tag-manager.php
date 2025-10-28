@@ -6,7 +6,9 @@
   Version: 1.0.0
   Author: Mieruca Heatmap
   Author URI: https://mieru-ca.com/heatmap/
-  License: Copyright 2016-2021 Faber Company
+  License: GPLv2 or later
+  License URI: https://www.gnu.org/licenses/gpl-2.0.html
+  Text Domain: mieruca-heatmap-tag-manager
  */
 add_action('init', 'MierucaHeatmapTagManager::init');
 add_action('wp_head', 'MierucaHeatmapTagManager::my_custom_js');
