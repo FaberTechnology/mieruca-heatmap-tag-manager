@@ -4,7 +4,7 @@
   Plugin URI: https://wordpress.org/plugins/mieruca-heatmap-tag-manager/
   Description: Mieruca Heatmap のタグを簡単設定！
   Version: 1.0.0
-  Author: Faber Company, Inc.
+  Author: Faber Company Inc.
   Author URI: https://mieru-ca.com/heatmap/
   License: GPLv2 or later
   License URI: https://www.gnu.org/licenses/gpl-2.0.html
