@@ -4,10 +4,28 @@
   Plugin URI: https://wordpress.org/plugins/mieruca-heatmap-tag-manager/
   Description: Mieruca Heatmap のタグを簡単設定！
   Version: 1.0.0
-  Author: Mieruca Heatmap
+  Author: Faber Company Inc.
   Author URI: https://mieru-ca.com/heatmap/
-  License: Copyright 2016-2021 Faber Company
- */
+  License: GPLv2 or later
+  License URI: https://www.gnu.org/licenses/gpl-2.0.html
+  Text Domain: mieruca-heatmap-tag-manager
+
+  Mieruca Heatmap Tag Manager
+  Copyright (C) 2021 Faber Company, Inc.
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License along
+  with this program; if not, see <https://www.gnu.org/licenses/>.
+*/
 add_action('init', 'MierucaHeatmapTagManager::init');
 add_action('wp_head', 'MierucaHeatmapTagManager::my_custom_js');
 class MierucaHeatmapTagManager
